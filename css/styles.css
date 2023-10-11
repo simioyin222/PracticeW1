@@ -10,3 +10,16 @@ h1 {
 #follow-me {
   background-color: rgb(21, 201, 108);
 }
+
+.point {
+  color: red;
+}
+
+.scary {
+  color: orange;
+}
+
+.picture img {
+  max-width: 200px;
+  height: auto;
+}
